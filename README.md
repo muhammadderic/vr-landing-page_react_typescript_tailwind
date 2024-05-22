@@ -1,1 +1,1 @@
-# vr-landing-page_react_typescript_tailwind
+# React + Vite
