@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="./public/vr-landing-page.png" width="200">
+<img src="./public/vr-landing-page.png" width="750">
 
 Welcome to the VR App Landing Page project, a modern and immersive React-based landing page designed to showcase the cutting-edge features and capabilities of your VR application. This project provides a sleek and engaging interface to attract potential users and investors by highlighting the unique aspects of your VR app.
 
